@@ -11,10 +11,10 @@
  * [Acknowledgment](#acknowledgment)
 
 # Overview of the Project
-The goal of the project is to count dishes. In a scenario where there is large function which requires n number of dishes to be used, and n number of dishes are used every hour. So this app will help to manage how many dishes have been taken in that particular hour and you can save the data too.The main focus is on Javascript concepts.
+The goal of the project is to count dishes. In a scenario where there is large function where it's difficult to keep a track of dishes used. So this app will keep the record and you can save the data too.The main focus is on Javascript concepts.
 
 ### Goal of the Project
-* The Goal of this project is to count dishes in a large function where managing is difficult.
+* The Goal of this project is to keep the record of dishes where its difficult to manage like a large function.
 * To style the project with HTML and CSS.
 * To add a increment button to count dishes.
 * To add a save button to save the total number of dishes counted in a hour.
